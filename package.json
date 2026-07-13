@@ -1,0 +1,33 @@
+{
+  "name": "be.elab.logindevice",
+  "displayName": "\ud83e\uddf0: Github Login Device",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Allows to check if the user own access to a GitHub Account ",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "url": "https://github.com/EloiStree",
+    "email": "eloistree@gmail.com"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2026_07_13_upm_github_login_device.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script",
+  "documentationUrl": "https://github.com/EloiStree/2026_07_13_upm_github_login_device/blob/main/README.md",
+  "licensesUrl": "https://github.com/EloiStree/2026_07_13_upm_github_login_device/blob/main/LICENSE"
+}
